@@ -7,6 +7,7 @@ license = "MIT"
 
 [tool.poetry.dependencies]
 python = "^3.9"
+fastapi = {version = "^0.67.0", extras = ["add"]}
 
 [tool.poetry.dev-dependencies]
 
